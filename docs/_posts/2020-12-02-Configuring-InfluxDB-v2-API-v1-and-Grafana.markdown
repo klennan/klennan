@@ -42,9 +42,9 @@ You will be prompted to enter and confirm a password for the new username.
 
 You can then verify accounts that exist with the command:
 
-{% highlight bash %}
+```bash
 influx v1 auth list
-{% endhighlight %}
+```
 
 > See [Influxdata.com documetation for influx v1 auth cli][influx-docs-cliauth]
 

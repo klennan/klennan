@@ -4,6 +4,7 @@ title:  "Why does this exist?"
 date:   2018-10-04 18:30:34 -0600
 categories: freewriting
 ---
+
 I haven’t figured that out yet. I mean, I figure maybe once in a while I’ll have something I feel like writing about. It might be tech, it might be life.
 
 Right now I’m sitting at the dinner table, configuring up my fresh WordPress site, while my 14 month old son dozes off in his high chair after eating plenty of chicken Tikka Masala. I don’t get much time lately at home to be *computer* productive. Any time I pick up a laptop either my son goes for it, rips it away from me or smashes on the keyboard, or my wife asks “What are you doing? Why aren’t you paying attention to him?” Though staring at our phones or the TV go without criticism.
