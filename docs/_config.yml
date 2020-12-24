@@ -28,7 +28,7 @@ twitter_username: KevinLennan
 github_username:  klennan
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 
