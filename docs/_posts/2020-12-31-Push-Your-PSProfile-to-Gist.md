@@ -3,6 +3,7 @@ layout: post
 title:  "Push Your PowerShell Profile to a Github Gist"
 date:   2020-12-31 08:43:00 -0600
 categories: tech tutorial powershell
+description: "This post will walk through using a Github gist to store a copy of your PowerShell Profile, while being able to pull from it and push to it!"
 ---
 
 A while ago in [this post][fancy-prompt] I mentioned I adopted [Steve Lee's code][stevelee-gist] for my PowerShell Profile. Yesterday I wrote some more code to let me push my local updates back into the gist where I store it.
@@ -140,9 +141,9 @@ Thanks for reading!
 
 -Kevin
 
-[fancy-prompt]:  {% post_url 2020-05-09-Getting-Started-With-a-Fancy-PowerShell-Prompt %}
 [stevelee-gist]: https://gist.github.com/SteveL-MSFT/a208d2bd924691bae7ec7904cab0bd8e
 [github-doc]:    https://docs.github.com/en/free-pro-team@latest/rest/reference/gists#update-a-gist
 [pssplatting]:   https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_splatting?view=powershell-7.1
 [github-token]:  https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token#creating-a-token
 [msdoc-env]:     https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_environment_variables?view=powershell-7.1
+[fancy-prompt]:  {% post_url 2020-05-09-Getting-Started-With-a-Fancy-PowerShell-Prompt %}
