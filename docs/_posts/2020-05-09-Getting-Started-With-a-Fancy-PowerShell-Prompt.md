@@ -3,6 +3,7 @@ layout: post
 title:  "Getting Started with a Fancy PowerShell Prompt"
 date:   2020-05-09 18:30:34 -0600
 categories: tech tutorials powershell
+description: "Using oh-my-posh and NerdFonts to Make a Better Prompt"
 ---
 
 I started out by doing this the hard way. That didn’t work out well, and so I tried again while writing this post. I again didn’t get things right. But while I was searching for help I landed on [Scott Hanselman’s post][shanselman-prompt] about using posh-git with on-my-posh. I gave in, did things his way, and it was dead simple.
